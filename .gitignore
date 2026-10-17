@@ -1,0 +1,12 @@
+# 构建产物
+/bin/
+/dist/
+
+# 测试产物
+coverage.out
+coverage.html
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
